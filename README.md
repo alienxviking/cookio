@@ -40,7 +40,7 @@ Cook.io/
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/cook.io.git
+git clone https://github.com/alienxviking/cook.io.git
 cd cook.io
 ```
 
@@ -50,9 +50,9 @@ Simply open `index.html` in your favorite browser.
 ### 3️⃣ API Configuration
 To use the Edamam API, make sure your `api.js` file contains **valid credentials**:
 ```js
-const APP_ID = "your_app_id";
-const API_KEY = "your_api_key";
-const USER_ID = "your_user_id";
+const APP_ID = "438677e8";
+const API_KEY = "7a5ee1fd6ae47e4fc6108f88a93facd6";
+const USER_ID = "alienxviking";
 ```
 Replace with your **actual** Edamam credentials.
 
@@ -73,14 +73,6 @@ If the API isn't working:
 2. **Wait for the rate limit reset** if you've exceeded requests.
 3. **Open the browser console (`F12` > Console)** for errors.
 
-## 📜 License
-This project is **MIT Licensed**. Feel free to use and modify it.
-
-## 💬 Contact
-If you have any questions, reach out:
-- 📧 Email: yourname@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 GitHub: [yourusername](https://github.com/yourusername)
 
 Happy Cooking! 🍕🔥
 
