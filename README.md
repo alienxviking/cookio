@@ -1,7 +1,5 @@
 # Cook.io - Cooking Made Easy 🍽️
 
-![Cook.io Banner](./assets/images/banner.png)
-
 ## 📌 About the Project
 **Cook.io** is a modern, user-friendly recipe application that allows users to search for, view, and save their favorite recipes. It leverages the **Edamam API** to fetch and display a wide range of recipes based on various filters like ingredients, dietary preferences, and cuisine types.
 
